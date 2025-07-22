@@ -34,14 +34,4 @@
 ## 🔧 Setup Instructions
 
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/gitpeek.git
-
-# Move into the project directory
-cd gitpeek
-
-# Install dependencies
-npm install
-
-# Run the app
-npm run dev
+https://github.com/Muhammad-Arsalan-Khan/git-profile-search.git
