@@ -16,12 +16,6 @@
 
 ---
 
-## 🖼️ Preview
-
-![GitPeek Preview](https://via.placeholder.com/600x350.png?text=GitPeek+Preview)
-
----
-
 ## 🛠️ Tech Stack
 
 - ⚛️ React
